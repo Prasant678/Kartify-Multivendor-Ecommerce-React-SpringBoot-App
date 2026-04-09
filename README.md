@@ -44,12 +44,12 @@ The platform is built using modern full-stack technologies with a React-based fr
 
 ## 🔥Key Contributions
 
-Built a responsive frontend using React.js, TypeScript, Tailwind CSS, and Material UI
-Developed RESTful APIs using Spring Boot, Spring Security, and Hibernate
-Implemented JWT authentication, OTP verification, and email services using Spring Mail
-Integrated Razorpay payment gateway for secure online payments
-Designed product, cart, wishlist, order, and seller management modules
-Used Redux Toolkit and Axios for scalable state management and API communication
+- Built a responsive frontend using React.js, TypeScript, Tailwind CSS, and Material UI
+- Developed RESTful APIs using Spring Boot, Spring Security, and Hibernate
+- Implemented JWT authentication, OTP verification, and email services using Spring Mail
+- Integrated Razorpay payment gateway for secure online payments
+- Designed product, cart, wishlist, order, and seller management modules
+- Used Redux Toolkit and Axios for scalable state management and API communication
 
 ## 📁Project Structure
 
